@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Nuy7wc@virginia.edu
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I have three cats and built my first watercooling rig a few years ago.
+- ⚡ Fun fact: I have three cats and built my first watercooling PC a few years ago.
 
 <!---
 ElijahAmir08/ElijahAmir08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
