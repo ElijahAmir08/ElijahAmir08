@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Development Essentials (SDE)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Nuy7wc@virginia.edu
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have three cats and built my first watercooling PC a few years ago.
 
 <!---
