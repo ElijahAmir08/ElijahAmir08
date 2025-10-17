@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElijahAmir08
 - 👀 I’m interested in Cyber Security and Quantum Computing
-- 🌱 I’m currently learning Software Development Essentials (SDE)
+- 🌱 I’m currently learning Data Structures and Algorithms II
 - 📫 How to reach me Nuy7wc@virginia.edu, Elijahamirhodges@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have three cats
