@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElijahAmir08
-- 👀 I’m interested in Cyber Security and Quantum Computing
-- 🌱 I’m currently learning Data Structures and Algorithms II
+- 👀 I’m interested in Data Science and ML related positions
+- 🌱 I’m currently preparing for my move to UCSB where I will be joining the M.S. Computer Science program
 - 📫 How to reach me Nuy7wc@virginia.edu, Elijahamirhodges@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have three cats
